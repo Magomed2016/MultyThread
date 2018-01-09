@@ -43,11 +43,7 @@ public class Buyer implements Runnable {
                 break;
             }
 
-
-            //System.out.println("+++"+name+" "+ countOfPurchases +"походов "+ countOfProducts +"продуктов");
-
         }
-        //System.out.println("===============================================");
 
         System.out.println(name+" "+ countOfPurchases +"походов "+ countOfProducts +"продуктов");
 
